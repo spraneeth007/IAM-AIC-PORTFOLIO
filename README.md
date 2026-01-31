@@ -11,6 +11,11 @@ This repo is my step-by-step IAM engineering learning portfolio focused on:
 - `diagrams/cookie-session-tls.md` — how HTTPS/TLS, cookies, and sessions work
 - `diagrams/oidc-auth-code-pkce.md` — OIDC Authorization Code + PKCE flow
 
+## Progress log
+- Day 1: Web basics + TLS/cookies/sessions + initial SSO issues runbook
+- Day 2: Authentication vs Authorization + RBAC/MFA flow diagram
+
+
 ### Runbooks
 - `runbooks/top-20-sso-issues.md` — common SSO issues (symptom → cause → fix)
 
